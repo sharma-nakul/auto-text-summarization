@@ -6,5 +6,5 @@ The summary that tools generates is a shortened version of the original or it is
 The main purpose of such a simplification is to highlight the major points out of original (much longer) document.
 
 ### Platform 
-The project is built on C# and need Visual Studio IDE to import.
+The project built on C# and need Visual Studio IDE to import.
 
