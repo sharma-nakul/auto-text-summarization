@@ -1,0 +1,2 @@
+EnglishStemmer.EnglishWord s = new EnglishStemmer.EnglishWord("how are you");
+String output=s.Stem.ToLower();

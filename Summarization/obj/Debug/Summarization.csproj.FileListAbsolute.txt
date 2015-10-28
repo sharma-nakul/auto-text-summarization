@@ -1,0 +1,78 @@
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\ResolveAssemblyReference.cache
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.Properties.Resources.resources
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.csproj.GenerateResource.Cache
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.Login.resources
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.MainForm.resources
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.Starting.resources
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.Summarization.resources
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\bin\Debug\Summarization.exe
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\bin\Debug\Summarization.pdb
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\bin\Debug\XCoolForm.dll
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.Form1.resources
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.exe
+E:\Amar\Project2011\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.pdb
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.exe
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.pdb
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.Login.resources
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.MainForm.resources
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.Project.resources
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.Properties.Resources.resources
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.Starting.resources
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.Summarization.resources
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.csproj.GenerateResource.Cache
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\bin\Debug\Summarization.exe
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\bin\Debug\Summarization.pdb
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\obj\Debug\Summarization.ProjectList.resources
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\bin\Debug\nunit.framework.dll
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\bin\Debug\nunit.framework.xml
+F:\Project 2011\BE\Dotnet\AutoSummarization\Summarization\Summarization\bin\Debug\Centivus.EnglishStemmer.dll
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\obj\Debug\Summarization.exe
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\obj\Debug\Summarization.pdb
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\bin\Debug\Summarization.exe
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\bin\Debug\Summarization.pdb
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\bin\Debug\Centivus.EnglishStemmer.dll
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\bin\Debug\nunit.framework.dll
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\bin\Debug\nunit.framework.xml
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\obj\Debug\Summarization.Login.resources
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\obj\Debug\Summarization.MainForm.resources
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\obj\Debug\Summarization.Project.resources
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\obj\Debug\Summarization.ProjectList.resources
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\obj\Debug\Summarization.Properties.Resources.resources
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\obj\Debug\Summarization.Starting.resources
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\obj\Debug\Summarization.Summarization.resources
+C:\Users\Shanky\Documents\Final Year Project\Summarization\Summarization\obj\Debug\Summarization.csproj.GenerateResource.Cache
+C:\Summarization\Summarization\obj\Debug\Summarization.exe
+C:\Summarization\Summarization\obj\Debug\Summarization.pdb
+C:\Summarization\Summarization\bin\Debug\Summarization.exe
+C:\Summarization\Summarization\bin\Debug\Summarization.pdb
+C:\Summarization\Summarization\bin\Debug\Centivus.EnglishStemmer.dll
+C:\Summarization\Summarization\bin\Debug\nunit.framework.dll
+C:\Summarization\Summarization\bin\Debug\nunit.framework.xml
+C:\Summarization\Summarization\obj\Debug\ResolveAssemblyReference.cache
+C:\Summarization\Summarization\obj\Debug\Summarization.Login.resources
+C:\Summarization\Summarization\obj\Debug\Summarization.MainForm.resources
+C:\Summarization\Summarization\obj\Debug\Summarization.Project.resources
+C:\Summarization\Summarization\obj\Debug\Summarization.ProjectList.resources
+C:\Summarization\Summarization\obj\Debug\Summarization.Properties.Resources.resources
+C:\Summarization\Summarization\obj\Debug\Summarization.Starting.resources
+C:\Summarization\Summarization\obj\Debug\Summarization.Summarization.resources
+C:\Summarization\Summarization\obj\Debug\Summarization.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\obj\Debug\Summarization.exe
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\obj\Debug\Summarization.pdb
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\obj\Debug\Summarization.Login.resources
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\obj\Debug\Summarization.MainForm.resources
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\obj\Debug\Summarization.Project.resources
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\obj\Debug\Summarization.ProjectList.resources
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\obj\Debug\Summarization.Properties.Resources.resources
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\obj\Debug\Summarization.Starting.resources
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\obj\Debug\Summarization.Summarization.resources
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\bin\Debug\Summarization.exe
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\bin\Debug\Summarization.pdb
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\bin\Debug\Centivus.EnglishStemmer.dll
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Documents\Auto Text summarization\Summarization\Summarization\bin\Debug\nunit.framework.xml

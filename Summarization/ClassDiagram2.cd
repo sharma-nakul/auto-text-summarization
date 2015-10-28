@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TextAnalysis.AbstractClassifier">
+    <Position X="1.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAAAAAAAAAAAAAAAAAAEAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClassifier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TextAnalysis.ClassifierException" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassifierException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAnalysis.CustomizableStopWordProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAACAAAAAAAAAAAAAAAAAAAAAABCAgAAAAA=</HashCode>
+      <FileName>CustomizableStopWordProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TextAnalysis.DefaultStopWordProvider" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAIAAAAAAAAAAAAAAAAABAAAAAAgQAAAA=</HashCode>
+      <FileName>DefaultStopWordProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TextAnalysis.DefaultTokenizer">
+    <Position X="3" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAEAAAAAAEAAAIAAAAAAAAAAAAgAgAAABAAAA=</HashCode>
+      <FileName>DefaultTokenizer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TextAnalysis.ICategorizedClassifierConstants" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICategorizedClassifierConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAnalysis.IClassifierConstants" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAgAAAQAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IClassifierConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAnalysis.SimpleClassifier">
+    <Position X="3.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAEAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>SimpleClassifier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TextAnalysis.SimpleHtmlTokenizer">
+    <Position X="5.5" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SimpleHtmlTokenizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAnalysis.Utilities">
+    <Position X="12.5" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAABAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Utilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Summarization.Login" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Summarization.MainForm" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYCAQAAAQCAAIAgAAACGEAACAAqAAAAACAEAAAgBAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Summarization.Program" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Summarization.ProjectData">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAAAAAAABAAAAEAAAEAAAAAAAAAAAAAACAIAA=</HashCode>
+      <FileName>Project\ProjectData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Summarization.Project" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIACAAgAACAACAUAAACAAAADAAAAEIAAEAAAAAAAAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Summarization.ProjectList" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIACAAkAICAACAUAABCAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProjectList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Summarization.Starting" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACAAABAAAACAAAACAAAAIABAAAAAAAAAACA=</HashCode>
+      <FileName>Starting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Summarization.Summarization" Collapsed="true">
+    <Position X="9.25" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AiAKAAQAACAAABEAAACAAABCKEA4AAAAEHAIAAAAAAA=</HashCode>
+      <FileName>Summarization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Summarization.Properties.Resources" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAABAAAAAAAAAAAJEAAAAQAEAAAAAAACAAAAIII=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Summarization.Properties.Settings" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextAnalysis.Summarizer.SimpleSummarizer" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAACAAAAAAAAAAAAAAABAIAAAAAABA=</HashCode>
+      <FileName>Summarizer\SimpleSummarizer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.148" Collapsed="true" />
+  </Class>
+  <Class Name="TextAnalysis.Summarizer.SimpleSummarizerComparer" BaseTypeListCollapsed="true">
+    <Position X="13" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Summarizer\SimpleSummarizer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.3" Collapsed="true" />
+  </Class>
+  <Class Name="TextAnalysis.Tests.Summarizer.SimpleSummarizerTest">
+    <Position X="5.5" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAACAAAAAAAAAAABAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Summarizer\SimpleSummarizerTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Summarization.Summarizer.SumWeight" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAAIAAABAAA=</HashCode>
+      <FileName>Summarizer\SumWeight.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="TextAnalysis.ICategorizedClassifier">
+    <Position X="0.5" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICategorizedClassifier.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TextAnalysis.IClassifier">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IClassifier.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TextAnalysis.IStopWordProvider" Collapsed="true">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>IStopWordProvider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TextAnalysis.ITokenizer">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ITokenizer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TextAnalysis.ITrainable" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ITrainable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TextAnalysis.ITrainableClassifier" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ITrainableClassifier.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TextAnalysis.Summarizer.ISummarizer">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Summarizer\ISummarizer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
